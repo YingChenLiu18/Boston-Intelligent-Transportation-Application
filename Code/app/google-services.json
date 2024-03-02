@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122542419340",
+    "project_id": "bostonsmartbuscard",
+    "storage_bucket": "bostonsmartbuscard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122542419340:android:55186e47cc2a0d0c8abaa9",
+        "android_client_info": {
+          "package_name": "edu.bu.bostonintelligenttransportationapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCdwYCiljrLnDZfY4Hu6A-4BgPTCt-Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

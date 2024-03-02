@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Boston Intelligent Transportation Application</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms_and_conditions">By continuing you accept our Privacy Policy and Term of Use</string>
+    <string name="terms_and_conditions_header">Term of Use</string>
+    <string name="privacy_policy_header">Privacy Policy</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_out">Log Out</string>
+    <string name="forgot_password_text">Enter your email to receive instruction for how to reset your password.</string>
+    <string name="original_password">Original Password</string>
+    <string name="new_password"> New Password</string>
+    <string name="new_confirm_password">Confirm New Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="save_name">Save Name</string>
+    <string name="dollar5">$5.00</string>
+    <string name="dollar10">$10.00</string>
+    <string name="dollar20">$20.00</string>
+    <string name="dollar50">$50.00</string>
+    <string name="dollar100">$100.00</string>
+    <string name="dollar200">$200.00</string>
+    <string name="day_pass">1 Day Pass($11.00)</string>
+    <string name="weekly_pass">7 Days Pass($22.50)</string>
+    <string name="monthly_pass">31 Days Pass($90.00)</string>
+    <string name="nameOnCard">NAME ON CARD</string>
+    <string name="creditCard">CREDIT CARD NUMBER</string>
+    <string name="expirationDate">EXPIRATION DATE</string>
+    <string name="cvv">CVV/CVC</string>
+    <string name="confirm">Confirm</string>
+    <string name="tapToPay">Tap to Pay</string>
+</resources>
